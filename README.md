@@ -18,8 +18,8 @@ Build simple clone of netlfix using React
 ### Preview 1:
 ![Preview 1](https://github.com/Haidram/netflix-clone/blob/master/src/preview1.png)
 ### Preview 2:
-![Preview 2](https://github.com/Haidram/netflix-clone/blob/master/src/preview2.PNG)
+![Preview 2](https://github.com/Haidram/netflix-clone/blob/master/src/preview2.png)
 ### Preview 3:
-![Preview 3](https://github.com/Haidram/netflix-clone/blob/master/src/preview3.PNG)
+![Preview 3](https://github.com/Haidram/netflix-clone/blob/master/src/preview3.png)
 ### Preview 4:
-![Preview 4](https://github.com/Haidram/netflix-clone/blob/master/src/preview4.PNG)
+![Preview 4](https://github.com/Haidram/netflix-clone/blob/master/src/preview4.png)
